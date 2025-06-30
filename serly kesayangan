@@ -1,0 +1,63 @@
+Last login: Mon Jun 30 21:48:47 on console
+dean@deans-air ~ % >....                                                        
+    <source src="hanyaukau.mp3" type="audio/mpeg">
+    Browser kamu gak support audio :(
+  </audio>
+
+  <script>
+    // Efek hati jatuh
+    setInterval(() => {
+      const heart = document.createElement('div');
+      heart.className = 'heart';
+      heart.style.left = Math.random() * 100 + 'vw';
+      heart.innerText = '❤️';
+      document.body.appendChild(heart);
+      setTimeout(() => heart.remove(), 4000);
+    }, 300);
+
+    // Klik tombol
+    document.getElementById('button').onclick = () => {
+      alert('Duhhh kamu cantik banget sihh Serly!! 😘');
+    };
+  </script>
+</body>
+</html>
+
+zsh: event not found: DOCTYPE
+dean@deans-air ~ % 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
